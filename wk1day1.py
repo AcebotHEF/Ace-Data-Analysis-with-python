@@ -1,0 +1,11 @@
+print("Hello world")
+sum = 3 + 5
+print(sum)
+print("sum")
+print("My name is hikmah")
+print("Hello, Data Analyst!")
+print("I am learning Python programming.")
+print("I love data analysis.")
+print("Python is fun!")
+print("I enjoy solving problems with code.")
+print("Data is the new oil.")
